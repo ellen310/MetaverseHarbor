@@ -1,5 +1,5 @@
 # MetaverseHarbor
-
+상세 설명: https://www.notion.so/VR-7115fe6698af4162b111618baa1fabdb
 
 <!--
 ## 🌞 VR 메타버스 항만 체험 솔루션 "~~"
